@@ -22,12 +22,12 @@
 
 ## Breve resumo pessoal:
 
-Nasci em Santos, mas já morei em Santa Catarina, Paraná, Rio Grande do Sul, e algumas cidades na Baixada Santista, litoral de São Paulo. 
+Nasci em Santos, mas minha trajetória já me levou por diversos lugares, incluindo Santa Catarina, Paraná, Rio Grande do Sul e várias cidades na Baixada Santista, no litoral de São Paulo.
 
-Curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo. Ingressei via SISU no IFFarroupilha em São Vicente do Sul (RS) e me transferi internamente no segundo semestre para o IFSP Câmpus Cubatão (SP). Atualmente estou em meu último semestre.
+Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo (IFSP). Ingressei no curso via SISU no IFFarroupilha em São Vicente do Sul (RS) e, posteriormente, realizei uma transferência interna para o IFSP Câmpus Cubatão (SP), finalizando o curso no final de 2023.
 
-Atuo a 6 anos na área de desenvolvimento de softwares como desenvolvedor web fullstack e tive a oportunidade de aprender com pessoas muito inteligentes em diversos segmentos diferentes.
+Com uma experiência de seis anos na área de desenvolvimento de softwares como Desenvolvedor Web Fullstack, tive a oportunidade enriquecedora de colaborar com profissionais altamente qualificados em diversos setores.
 
-Aprender sobre os negócios e soluções de empresas com segmentos distintos como: Aeronáutica, Jornalismo, Logística Portuária, Educação a distância e o Mercado Financeiro foram realizações que provavelmente só através da T.I. eu poderia desfrutar. Acredito que ao longo de minha jornada nesta área pude contribuir e evoluir tanto profissionalmente quanto como ser humano.
+Minha jornada profissional permitiu-me absorver conhecimentos valiosos em segmentos tão diversos quanto Aeronáutica, Jornalismo, Logística Portuária, Educação a Distância, Mercado Financeiro e até mesmo a área da Saúde. Compreender as nuances dos negócios e soluções nestes segmentos distintos foi possível graças à minha atuação na Tecnologia da Informação.
 
-Desenvolver processos e soluções com tecnologia, pra mim, é viver o futuro e transformá-lo em um presente.
+Acredito que, ao longo desse percurso, pude contribuir significativamente e evoluir tanto profissionalmente quanto como ser humano. Para mim, desenvolver processos e soluções com tecnologia não é apenas vislumbrar o futuro, mas sim viver o futuro e transformá-lo em um presente.
