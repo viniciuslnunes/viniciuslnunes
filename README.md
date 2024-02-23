@@ -3,7 +3,7 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuslnunes&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia | Technologies I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,7 +19,7 @@
   <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div><br/>
 
-## Breve resumo pessoal:
+## Breve resumo pessoal | Brief personal summary:
 
 Nasci em Santos, mas minha trajetória já me levou por diversos lugares, incluindo Santa Catarina, Paraná, Rio Grande do Sul e várias cidades na Baixada Santista, no litoral de São Paulo.
 
@@ -30,3 +30,15 @@ Com uma experiência de seis anos na área de desenvolvimento de softwares como 
 Minha jornada profissional permitiu-me absorver conhecimentos valiosos em segmentos tão diversos quanto Aeronáutica, Jornalismo, Logística Portuária, Educação a Distância, Mercado Financeiro e até mesmo a área da Saúde. Compreender as nuances dos negócios e soluções nestes segmentos distintos foi possível graças à minha atuação na Tecnologia da Informação.
 
 Acredito que, ao longo desse percurso, pude contribuir significativamente e evoluir tanto profissionalmente quanto como ser humano. Para mim, desenvolver processos e soluções com tecnologia não é apenas vislumbrar o futuro, mas sim viver o futuro e transformá-lo em um presente.
+
+English: 
+
+I was born in Santos, but my journey has taken me to several places, including Santa Catarina, Paraná, Rio Grande do Sul and several cities in Baixada Santista, on the coast of São Paulo.
+
+I have a degree in Systems Analysis and Development from the Federal Institute of São Paulo (IFSP). I joined the course via SISU at IFFarroupilha in São Vicente do Sul (RS) and, subsequently, made an internal transfer to the IFSP Câmpus Cubatão (SP), finishing the course at the end of 2023.
+
+With six years of experience in software development as a Fullstack Web Developer, I had the enriching opportunity to collaborate with highly qualified professionals in various sectors.
+
+My professional journey has allowed me to absorb valuable knowledge in segments as diverse as Aeronautics, Journalism, Port Logistics, Distance Education, Financial Market and even the Healthcare area. Understanding the nuances of business and solutions in these different segments was possible thanks to my performance in Information Technology.
+
+I believe that, along this path, I was able to contribute significantly and evolve both professionally and as a human being. For me, developing processes and solutions with technology is not just about envisioning the future, but about living the future and transforming it into a present.
