@@ -19,7 +19,7 @@
   <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div><br/>
 
-## Breve resumo pessoal | Brief personal summary:
+## Breve resumo pessoal
 
 Nasci em Santos, mas minha trajetória já me levou por diversos lugares, incluindo Santa Catarina, Paraná, Rio Grande do Sul e várias cidades na Baixada Santista, no litoral de São Paulo.
 
@@ -31,7 +31,7 @@ Minha jornada profissional permitiu-me absorver conhecimentos valiosos em segmen
 
 Acredito que, ao longo desse percurso, pude contribuir significativamente e evoluir tanto profissionalmente quanto como ser humano. Para mim, desenvolver processos e soluções com tecnologia não é apenas vislumbrar o futuro, mas sim viver o futuro e transformá-lo em um presente.
 
-## English: 
+## Brief personal summary: 
 
 I was born in Santos, but my journey has taken me to several places, including Santa Catarina, Paraná, Rio Grande do Sul and several cities in Baixada Santista, on the coast of São Paulo.
 
