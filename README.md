@@ -31,6 +31,9 @@ Minha jornada profissional permitiu-me absorver conhecimentos valiosos em segmen
 
 Acredito que, ao longo desse percurso, pude contribuir significativamente e evoluir tanto profissionalmente quanto como ser humano. Para mim, desenvolver processos e soluções com tecnologia não é apenas vislumbrar o futuro, mas sim viver o futuro e transformá-lo em um presente.
 
+
+
+
 ## Brief personal summary: 
 
 I was born in Santos, but my journey has taken me to several places, including Santa Catarina, Paraná, Rio Grande do Sul and several cities in Baixada Santista, on the coast of São Paulo.
