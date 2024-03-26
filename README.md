@@ -1,8 +1,5 @@
 ### Hello World! 👋
 
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuslnunes&show_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que eu uso no meu dia | Technologies I use in my day
 
 <div style="display: inline_block">
