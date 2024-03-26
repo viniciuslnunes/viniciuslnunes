@@ -1,5 +1,3 @@
-### Hello World! 👋
-
 ## Tecnologias que eu uso no meu dia | Technologies I use in my day
 
 <div style="display: inline_block">
